@@ -13,3 +13,6 @@ Through doing this project some obsticles I need to look into include
 - Web reavtivity, whenever I changed the screen size to a mobile device the boxes and writing would format oddly
 
 - I tried to use flex boxes to correct this however when I added disply flex and flex wrap to try and solve the problem the 'benefits box' would move to a undesired location.
+
+had the background image working on local machine however once loaded looks like background path wasn't working, so I tried a New Path however image s still not showing.
+
